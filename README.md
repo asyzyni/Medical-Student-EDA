@@ -1,2 +1,9 @@
 # Medical Student EDA # 
-Repository ini dibuat bertujuan untuk memenuhi nilai tugas matakuliah Infrastruktur dan Platform untuk Sains Data
+Teknik EDA yang digunakan : 
+* Statistik Deskriptif
+* Identifikasi Outlier
+* Pemeriksaan Missing Value
+* Visualisasi Data
+* Transformasi Data
+* Visualisasi Data
+
